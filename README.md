@@ -1,6 +1,6 @@
 <h1 align="center">Dominoes Ordering Program</h1>
 
-<p align="center">A simple java program for ordering pizza</p>
+<h3 align="center">A simple Console Based Java program for ordering pizza</h3>
 
 ## Features
 - Choose pizza size and crust type.
@@ -10,6 +10,9 @@
 - Payment options
 
 ## Build using -
-- Java
-- OOPs Concepts
-- Im
+- Core Java
+- OOPs Concepts used : Inheritance, Polymorphism, Encapsulation, and Abstraction.
+- Input/Output Handling: Used classes Scanner for input.
+- Exception Handling: Added Custom Exceptions for error Handling.
+- Conditional Statements and Loops: 
+- Methods and Functions: Used if, else, switch statements and various loops like do, while, etc in this program.
