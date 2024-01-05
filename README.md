@@ -1,4 +1,4 @@
-<h1 align="center">Dominoes Ordering Program</h1>
+<h1 align="center">Dominoes App</h1>
 
 <h3 align="center">A simple Console Based Java program for ordering pizza</h3>
 
