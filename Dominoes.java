@@ -4,10 +4,9 @@ interface Dominos{
 }
 
 interface customer extends Dominos{
-
 }
-interface order extends Dominos{
 
+interface order extends Dominos{
 }
 
 class details implements customer,order {
